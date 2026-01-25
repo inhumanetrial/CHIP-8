@@ -128,7 +128,7 @@ while (SDL_PollEvent(&event)) {
         // Run multiple cycles per frame
         for (int i = 0; i < 10; ++i) {
     chip8.cycle();
-}
+        }
 
 
         // RENDER

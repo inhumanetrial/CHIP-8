@@ -1,0 +1,11 @@
+# binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# roms
+roms/
+
+# build folders
+build/
